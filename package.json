@@ -1,11 +1,11 @@
 {
-  "name": "passport-local",
+  "name": "passport-facebook-client",
   "version": "0.1.6",
-  "description": "Local username and password authentication strategy for Passport.",
+  "description": "Facebook-client authentication strategy for Passport.",
   "keywords": ["passport", "local", "auth", "authn", "authentication"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-local.git"
+    "url": "git://github.com/Petrlds/passport-local.git"
   },
   "bugs": {
     "url": "http://github.com/jaredhanson/passport-local/issues"
